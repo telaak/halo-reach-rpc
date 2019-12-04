@@ -1,0 +1,11 @@
+{
+  "name": "halo-reach-rpc",
+  "version": "1.0.0",
+  "description": "Discord Rich Presence for Halo: Reach",
+  "main": "reach.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "telaak",
+  "license": "ISC"
+}
