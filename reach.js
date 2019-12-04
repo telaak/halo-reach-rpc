@@ -185,4 +185,6 @@ const getStatus = async () => {
   }
 };
 
-updateRPC();
+setTimeout(() => {
+  updateRPC();
+}, 15000);
